@@ -1,3 +1,3 @@
 # datastructure-algorithms
- algorithms & datstructure excercises
- it contains tonnes of excercises on algorithm and code of various operations on different data structure
+ Problems on Data Structure and Algorithms
+ it contains tonnes of excercises on algorithm and code of various operations on different data structure and various important Algorithms asked in interviews.
