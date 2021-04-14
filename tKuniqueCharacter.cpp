@@ -22,9 +22,10 @@ int main()
 {
     string s;
     int freq[26]={0};
-    int k,i=0,j=0,ans = -1;
+    int k,i=0,ans = -1;
     getline(cin,s);
     cin>>k; 
+    int j =k;
     while(s[j] !='\0')
     {
         freq[s[j]- 'a']++;
